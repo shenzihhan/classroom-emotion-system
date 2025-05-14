@@ -36,6 +36,7 @@ The real-time pipeline captures webcam input and processes facial emotions throu
 - Attention score estimation (time-weighted)
 - API endpoint for session aggregation
 - Privacy-preserving design (no face storage)
+- Achieved >90% binary emotion classification accuracy
 
 ---
 
