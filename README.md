@@ -20,7 +20,7 @@ We used the **Mini-Xception CNN** model trained on the FER-2013 dataset. It bala
 
 ---
 
-## ⚙System Pipeline
+## System Pipeline
 
 The real-time pipeline captures webcam input and processes facial emotions through a lightweight CV + DL stack. Attention scoring is computed and visualized in a teacher dashboard.
 
