@@ -4,7 +4,7 @@
 
 ---
 
-## Why this project?
+## **Problem Statement**
 
 In remote or hybrid learning environments, instructors often lack **real-time feedback** on students' emotional engagement. This gap reduces teaching effectiveness and limits opportunities to adapt based on students' responses.
 
@@ -12,7 +12,7 @@ Our system addresses this problem by using **computer vision and emotion classif
 
 ---
 
-## Model Architecture
+## **Model Architecture**
 
 We used the **Mini-Xception CNN** model trained on the FER-2013 dataset. It balances high classification accuracy with low computational cost, making it ideal for real-time inference.
 
@@ -20,7 +20,7 @@ We used the **Mini-Xception CNN** model trained on the FER-2013 dataset. It bala
 
 ---
 
-## System Pipeline
+## **System Pipeline**
 
 The real-time pipeline captures webcam input and processes facial emotions through a lightweight CV + DL stack. Attention scoring is computed and visualized in a teacher dashboard.
 
@@ -28,7 +28,7 @@ The real-time pipeline captures webcam input and processes facial emotions throu
 
 ---
 
-## Key Features
+## **Key Features**
 
 - Real-time emotion detection with latency < 2s
 - Local face processing via OpenCV Haar Cascade
@@ -40,16 +40,16 @@ The real-time pipeline captures webcam input and processes facial emotions throu
 
 ---
 
-## Tech Stack
+## **Tech Stack**
 
 - **Python**, **OpenCV**, **Streamlit**
 - **Mini-Xception** (Keras, TensorFlow)
 - **RESTful API** for dashboard integration
-- **Docker** for deployment (optional)
+- **Docker** for deployment
 
 ---
 
-## Author
+## **Author**
 
 [![Zih-Han Shen](https://avatars.githubusercontent.com/shenzihhan?s=100)](https://github.com/shenzihhan)  
 **Zih-Han Shen**  
