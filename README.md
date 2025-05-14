@@ -54,7 +54,7 @@ The real-time pipeline captures webcam input and processes facial emotions throu
 **Zih-Han Shen**  
 Master of Business Analytics @ ASU  
 Email: shenzihhan@gmail.com  
-LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/zih-han-shen-552983286/)
-Project Slide Deck (Google Slides) (https://docs.google.com/presentation/d/1AQ_o65YSPdLY_ItdcK84hoQEtoyzCfxW/edit?usp=sharing&ouid=104301292306575929503&rtpof=true&sd=true)  
+[Project Slide Deck (Google Slides)](https://docs.google.com/presentation/d/1AQ_o65YSPdLY_ItdcK84hoQEtoyzCfxW/edit?usp=sharing&ouid=104301292306575929503&rtpof=true&sd=true)  
+[LinkedIn Profile](https://www.linkedin.com/in/zih-han-shen-552983286/)
 
 ---
