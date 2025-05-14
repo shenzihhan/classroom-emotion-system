@@ -8,7 +8,6 @@ This folder contains the emotion classification model used in the classroom-emot
 - **Source:** Pretrained on FER-2013, used through DeepFace's emotion API  
 - **Output Classes:** `['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutral']`  
 - **Usage:** Integrated directly into classroom engagement system for real-time facial emotion detection  
-- **Note:** We did not train or fine-tune the model — the focus was on integrating and applying it effectively in an educational setting.
 
 ---
 
