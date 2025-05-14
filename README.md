@@ -45,7 +45,6 @@ The real-time pipeline captures webcam input and processes facial emotions throu
 - **Python**, **OpenCV**, **Streamlit**
 - **Mini-Xception** (Keras, TensorFlow)
 - **RESTful API** for dashboard integration
-- **Docker** for deployment
 
 ---
 
