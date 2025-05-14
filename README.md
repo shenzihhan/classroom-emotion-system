@@ -16,7 +16,7 @@ Our system addresses this problem by using **computer vision and emotion classif
 
 We used the **Mini-Xception CNN** model trained on the FER-2013 dataset. It balances high classification accuracy with low computational cost, making it ideal for real-time inference.
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](README/model_architecture.png)
 
 ---
 
@@ -24,7 +24,7 @@ We used the **Mini-Xception CNN** model trained on the FER-2013 dataset. It bala
 
 The real-time pipeline captures webcam input and processes facial emotions through a lightweight CV + DL stack. Attention scoring is computed and visualized in a teacher dashboard.
 
-![System Pipeline](system_pipeline.png)
+![System Pipeline](README/system_pipeline.png)
 
 ---
 
